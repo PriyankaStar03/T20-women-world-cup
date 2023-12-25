@@ -1,0 +1,24 @@
+﻿Match_id,Date,Team_1,Team_2,             Venue,Stage,Toss_winner,Toss_decision,First_innings_score,First_innings_wkts,First_innings_overs,Second_innings_score,Second_innings_wkts,Second_innings_overs,Winner,Player_of_the_match
+1,10-02-2023,Sri lanka,South Africa,Newlands Cricket Ground,Group,South Africa,Bowl,129,4,20,126,9,20,South Africa,Chamari Athapaththu
+2,11-02-2023,West Indies,England,Boland Park,Group,West Indies,Bat,135,7,20,138,3,14.3,England,Nat Sciver-Brunt
+3,11-02-2023,Australia,New Zealand,Boland Park,Group,New Zealand,Bowl,173,9,20,76,10,14,Australia,Ashleigh Gardner
+4,12-02-2023,Pakistan,India,Newlands Cricket Ground,Group,Pakistan,Bat,149,4,20,151,3,19,India,Jemimah Rodrigues
+5,12-02-2023,Bangladesh,Sri Lanka,Newlands Cricket Ground,Group,Bangladesh,Bat,126,8,20,129,3,18.2,Sri Lanka,Harshitha Samarawickrama
+6,13-02-2023,Ireland,England,Boland Park,Group,Ireland,Bat,105,10,18.2,107,6,14.2,England,Alice Capsey
+7,13-02-2023,South Africa,New Zealand,Boland Park,Group,South Africa,Bat,132,6,20,67,10,18.1,South Africa,Chloe Tryon
+8,14-02-2023,Bangladesh,Australia,St George's Oval,Group,Bangladesh,Bat,107,7,20,111,2,18.2,Australia,Georgia Wareham
+9,15-02-2023,West Indies,India,Newlands Cricket Ground,Group,West Indies,Bat,118,6,20,119,4,18.1,India,Deepti Sharma
+10,15-02-2023,Pakistan,Ireland,Newlands Cricket Ground,Group,Ireland,Bowl,165,5,20,95,10,16.3,Pakistan,Muneeba Ali
+11,16-02-2023,Sri lanka,Australia,St George's Oval,Group,Australia,Bowl,112,8,20,113,0,15.5,Australia,Alyssa Healy
+12,17-02-2023,New Zealand,Bangladesh,Newlands Cricket Ground,Group,New Zealand,Bat,189,3,20,118,8,20,New Zealand,Suzie Bates
+13,17-02-2023,Ireland,West Indies,Newlands Cricket Ground,Group,Ireland,Bat,137,9,20,140,4,19.5,West Indies,Hayley Matthews
+14,18-02-2023,England,India,St George's Oval,Group,India,Bowl,151,7,20,140,5,20,England,Nat Sciver-Brunt
+15,18-02-2023,South Africa,Australia,St George's Oval,Group,Australia,Bowl,124,6,20,125,4,16.3,Australia,Tahlia McGrath
+16,19-02-2023,West Indies,Pakistan,Boland Park,Group,West Indies,Bat,116,6,20,113,5,20,West Indies,Hayley Matthews
+17,19-02-2023,New Zealand,Sri Lanka,Boland Park,Group,New Zealand,Bat,162,3,20,60,10,15.5,New Zealand,Amelia Kerr
+18,20-02-2023,India,Ireland,St George's Oval,Group,India,Bat,155,6,20,54,2,8.2,India,Smriti Mandhana
+19,21-02-2023,England,Pakistan,Newlands Cricket Ground,Group,England,Bat,213,5,20,99,9,20,England,Nat Sciver-Brunt
+20,21-03-2023,Bangladesh,South Africa,Newlands Cricket Ground,Group,Bangladesh,Bat,113,6,20,117,0,17.5,South Africa,Laura Wolvaardt
+21,23-03-2023,Australia,India,Newlands Cricket Ground,Semi-Final,Australia,Bat,172,4,20,167,8,20,Australia,Ashleigh Gardner
+22,24-03-2023,South Africa,England,Newlands Cricket Ground,Semi-Final,South Africa,Bat,164,4,20,158,8,20,South Africa,Tazmin Brits
+23,26-03-2023,Australia,South Africa,Newlands Cricket Ground,Final,Australia,Bat,156,6,20,137,6,20,Australia,Beth Mooney
